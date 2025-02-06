@@ -123,6 +123,7 @@
             <a class="dropdown-item text-dark" href="<?php echo $codeofconducturl; ?>"><?php echo _('Code of conduct'); ?></a>
             <a class="dropdown-item text-dark font-weight-bold" href="https://forum.freecad.org/"><?php echo _('Forum'); ?></a>
             <a class="dropdown-item text-dark" href="https://fpa.freecad.org">The FPA</a>
+            <a class="dropdown-item text-dark" href="https://discord.gg/w2cTKGzccC">Discord</a>
             <a class="dropdown-item text-dark" href="<?php echo $eventsurl; ?>"><?php echo _('Calendar'); ?></a>
           </div>
         </li>
